@@ -1,0 +1,32 @@
+h1,h4{
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    color:red
+}
+h4{
+    color:darkblue
+}
+.container{
+    border: 1px solid black;
+}
+.col-3{
+    height: 200px;
+    background-color: gray;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-left: 20px;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.col-8{
+    margin-top: 40px;
+}
+.toflex{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
